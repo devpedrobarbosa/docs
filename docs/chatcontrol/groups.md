@@ -39,7 +39,7 @@ ChatControl offers several group options to customize how different player group
       <tr>
         <td><strong>Message_Similarity</strong></td>
         <td>Minimum allowed difference between consecutive messages (prevents spam)</td>
-        <td><code>"50%"</code></td>
+        <td><code>"50"</code></td>
       </tr>
       <tr>
         <td><strong>Command_Delay</strong></td>
@@ -49,7 +49,7 @@ ChatControl offers several group options to customize how different player group
       <tr>
         <td><strong>Command_Similarity</strong></td>
         <td>Minimum allowed difference between consecutive commands</td>
-        <td><code>"50%"</code></td>
+        <td><code>"50"</code></td>
       </tr>
       <tr>
         <td><strong>Sound_Notify_Format</strong></td>
